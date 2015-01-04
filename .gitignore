@@ -1,3 +1,6 @@
+qre
+Makefile
+
 # Object files
 *.o
 *.ko

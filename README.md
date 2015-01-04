@@ -34,10 +34,6 @@ $ make shared # for building the shared (dynamic) library
 Usage
 -----
 ```
-$ ./qre 
-Quick Regular Expression Demo Program
-Copyright (c) 2013-2015 Cheryl Natsu
-
 Usage : qre <testname> <arguments>
 
 analysis  <pattern>
